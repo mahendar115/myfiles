@@ -1,4 +1,4 @@
-//UserRegistration table
+//UserRegistration table hiii
 
 create table userregistration(uname varchar(20),pwd varchar(20),repwd varchar(20),address varchar(30),dob date,contact number(15));
 
